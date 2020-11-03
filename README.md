@@ -9,3 +9,5 @@ The Julia codes are based on Julia 1.4.0. Users have to use the updated Julia (a
 The required packages include the most updated version of Distributions, TensorToolbox, LinearAlgebra, SparseArrays and DelimitedFiles.
 
 The macroeconomic dataset is provided by Gary Koop, "Forecasting with Medium and Large Bayesian VARs", Journal of Applied Econometrics, Vol. 28, No. 2, 2013, pp. 177-203. All data are in the spreadsheet es09_1.xls, and 40 macroeconomic series are extracted to macro40.csv.
+
+This package is maintained by Di Wang <diwang@conenct.hku.hk>.
